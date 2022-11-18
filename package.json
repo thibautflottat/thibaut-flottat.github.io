@@ -21,6 +21,7 @@
 		"eslint": "^7.32.0",
 		"eslint-config-prettier": "^8.3.0",
 		"eslint-plugin-svelte3": "^3.3.0",
+		"gh-pages": "^4.0.0",
 		"mdsvex": "^0.9.8",
 		"mdsvex-relative-images": "^0.0.3",
 		"postcss": "^8.4.14",
